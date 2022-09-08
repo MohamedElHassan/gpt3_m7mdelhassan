@@ -10,6 +10,7 @@
 
 # production
 /build
+/GPT-3 React Landing Page
 
 # misc
 .DS_Store
